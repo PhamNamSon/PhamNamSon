@@ -1,8 +1,7 @@
-for (i = v; i >= 0; i--) {
-        if (i == v) {
-            river_map[a[v - 1]] = 1;
-            v = a[v - 1];
-            continue;
+while (u != 0) {
+        if (river_map[a[u - 1]] >= 1) {
+            k = a[u - 1];
+            break;
         }
-        river_map[i] = 0;
+        u = a[u - 1];
     }

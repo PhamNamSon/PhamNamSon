@@ -21,10 +21,3 @@ I build projects that combine **software engineering principles** with **cloud a
 
 ## 📂 Featured Projects
 - [🌐 Portfolio Website](https://github.com/PhamNamSon/portfolio) – Hosted on AWS (S3 + CloudFront & EC2), with CI/CD pipelines
-
----
-
-## ☁️ Cloud & Infra Diagrams
-![EC2 Infra](https://raw.githubusercontent.com/PhamNamSon/portfolio/main/app/assets/EC2.svg)
-![S3 Infra](https://raw.githubusercontent.com/PhamNamSon/portfolio/main/app/assets/S3.svg)
-

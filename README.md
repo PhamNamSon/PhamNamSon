@@ -5,6 +5,13 @@ I build projects that combine **software engineering principles** with **cloud a
 
 ---
 
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/nam-son-pham/)  
+- [Portfolio](https://namson.io)  
+- 📧 phamnamson1999@gmail.com
+
+---
+
 ## 🚀 Skills
 - **Programming Language**: Python, Java, Rust, C++, JavaScript, HTML, CSS
 - **Database Management**: PostgreSQL, MySQL, MongoDB, Firebase
@@ -21,9 +28,3 @@ I build projects that combine **software engineering principles** with **cloud a
 ![EC2 Infra](https://raw.githubusercontent.com/PhamNamSon/portfolio/main/app/assets/EC2.svg)
 ![S3 Infra](https://raw.githubusercontent.com/PhamNamSon/portfolio/main/app/assets/S3.svg)
 
----
-
-## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/nam-son-pham/)  
-- [Portfolio](https://namson.io)  
-- 📧 phamnamson1999@gmail.com

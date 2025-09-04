@@ -6,10 +6,9 @@ I build projects that combine **software engineering principles** with **cloud a
 ---
 
 ## 🚀 Skills
-- **Languages**: Python, JavaScript, SQL  
-- **Backend**: FastAPI, PostgreSQL  
-- **Frontend**: HTML, CSS, JavaScript  
-- **DevOps & Cloud**: Docker, Terraform, GitHub Actions, AWS  
+- **Programming Language**: Python, Java, Rust, C++, JavaScript, HTML, CSS
+- **Database Management**: PostgreSQL, MySQL, MongoDB, Firebase
+- **DevOps & Cloud**: Git, Nginx, Docker, GitHub Actions, GitLab CI/CD, Terraform, Linux, AWS
 
 ---
 

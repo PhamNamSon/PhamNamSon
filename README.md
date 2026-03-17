@@ -27,3 +27,4 @@ I build projects that combine **software engineering principles** with **cloud a
 ## 🏆 Certifications
 - Certified Kubernetes Administrator (CKA)
 - AWS Certified Solutions Architect – Associate (SAA-C03)
+- Microsoft Certified: Azure Administrator Associate

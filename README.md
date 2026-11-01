@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Nam Son
 
-I'm a **Software Engineer** focused on **backend development, cloud, and DevOps**.
-I build **REST APIs** and the **infrastructure** that runs them, and I like automation, pipelines, and Infrastructure as Code.
+I'm a **Software Engineer** building backend APIs and the platform that ships them. I work across Python, Java, Kubernetes, and Terraform, and I care about repeatable deployments, clean pipelines, and systems you can actually debug in production.
 
 ---
 

@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nam Son
 
-I'm a **Software Engineer** building backend APIs and the platform that ships them. I work across Python, Java, Kubernetes, and Terraform, and I care about repeatable deployments, clean pipelines, and systems you can actually debug in production.
+I'm a **Software Engineer** building backend APIs and the cloud platform that ships them. I work across Python, Java, Kubernetes, and Terraform on AWS and Azure, and I care about repeatable deployments, clean pipelines, and systems you can actually debug in production.
 
 ---
 

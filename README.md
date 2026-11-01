@@ -13,15 +13,28 @@ I build **REST APIs** and the **infrastructure** that runs them, and I like auto
 ---
 
 ## 🚀 Skills
-- **Languages**: Python, Java, Rust, C++, TypeScript, JavaScript, HTML, CSS
-- **Frameworks**: Django, Spring Boot, FastAPI, React, Tailwind CSS
-- **Databases**: PostgreSQL, MySQL, MongoDB, Firebase
-- **DevOps & Cloud**: Kubernetes, Docker, GitHub Actions, GitLab CI/CD, Terraform, AWS, Azure, Nginx, Git, Linux
+
+**Languages**: Python, Java, Rust, C++, TypeScript, JavaScript, HTML, CSS
+
+**Frameworks**: Django, Spring Boot, FastAPI, React, Tailwind CSS
+
+**Databases**: PostgreSQL, MySQL, Oracle, MongoDB, Firebase
+
+**DevOps**: Git, Docker, Kubernetes, ArgoCD, GitHub Actions, GitLab CI/CD, Ansible, Terraform
+
+**AWS**: EC2, Lambda, S3, RDS, VPC, IAM, CloudFormation, CloudWatch, ALB, CloudFront, Route 53
+
+**Azure**: VMs, Functions, Blob Storage, Azure SQL, VNet, Entra ID, Bicep, Monitor, App Gateway, Front Door, Azure DNS
+
+**Observability**: Prometheus, Grafana, Loki, Tempo, OpenTelemetry
 
 ---
 
 ## 📂 Featured Projects
-- [🌐 Portfolio Website](https://github.com/PhamNamSon/portfolio) – React SPA hosted on AWS with S3, CloudFront, Terraform, and GitHub Actions pipelines
+
+- [☸️ Kubernetes Platform with GitOps Delivery](https://github.com/PhamNamSon/sentinel_lab) – Two-node K3s cluster built with Ansible, all workloads managed through ArgoCD with an app-of-apps pattern. Helm charts for a Spring Boot API and Oracle database, CI/CD in GitHub Actions with integration tests against a real Oracle container, and unified metrics, logs, and traces with Prometheus, Loki, Tempo, and Grafana.
+
+- [🌐 Portfolio Website](https://github.com/PhamNamSon/portfolio) – React SPA hosted on AWS with S3, CloudFront, Terraform, and GitHub Actions pipelines.
 
 ---
 

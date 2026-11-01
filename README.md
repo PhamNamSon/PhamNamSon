@@ -15,17 +15,11 @@ I build **REST APIs** and the **infrastructure** that runs them, and I like auto
 ## 🚀 Skills
 
 **Languages**: Python, Java, Rust, C++, TypeScript, JavaScript, HTML, CSS
-
 **Frameworks**: Django, Spring Boot, FastAPI, React, Tailwind CSS
-
 **Databases**: PostgreSQL, MySQL, Oracle, MongoDB, Firebase
-
 **DevOps**: Git, Docker, Kubernetes, ArgoCD, GitHub Actions, GitLab CI/CD, Ansible, Terraform
-
 **AWS**: EC2, Lambda, S3, RDS, VPC, IAM, CloudFormation, CloudWatch, ALB, CloudFront, Route 53
-
 **Azure**: VMs, Functions, Blob Storage, Azure SQL, VNet, Entra ID, Bicep, Monitor, App Gateway, Front Door, Azure DNS
-
 **Observability**: Prometheus, Grafana, Loki, Tempo, OpenTelemetry
 
 ---
